@@ -18,7 +18,8 @@ This archive contains all files used and produced for the completion of ML Assig
 Linux:
 python3 classifier.py
 
-# Before running the code, ensure that the fashionMNIST is in the same directory as the code. The code runs with the assumption that the FashionMNIST is in the same directory as the code.
+# Before running the code, ensure that the fashionMNIST is in the same directory as the code. The code runs with the assumption that the FashionMNIST is in the same directory as the code. 
+Download dataset: (https://drive.google.com/drive/folders/13zaTTBKNKBTNZW8cvJ5lhpMseDVVdPDb?usp=drive_link)
 
 ### Output:
 - log.txt containing the training loss and accuracy printed after each epoch
